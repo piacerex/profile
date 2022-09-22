@@ -87,7 +87,7 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
 ## 教歴・インタビュー・講演実績（抜粋）
 
 - ElixirConf US 2022　※海外英語講演
-  - 2021年10月14日：講演「Live coding in 20minites of a membership site by Phoenix and phx_gen_auth」【オンライン推定100名】
+  - 2021年10月14日：講演「Live coding in 20minites of a membership site by Phoenix & phx_gen_auth」【オンライン推定100名】
 - Brooklyn Zelenka and The Exciting World of Edge Computing Podcast翻訳解説（YouTubeライブ配信）
   - 2022年04月15日：パネルディスカッション「ElixirでWeb3／DID開発をしている人のお話」
   - 2022年03月10日：パネルディスカッション「Elixirで分散データ開発をしている人のお話」
