@@ -1,5 +1,7 @@
 # 森 正和（もり まさかず）
 
+![image.png](me.png)
+
 ## 所属・肩書
 
 - 株式会社DigiDockConsulting 常務取締役 CTO
