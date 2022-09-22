@@ -92,8 +92,13 @@ FM KITAQで自身のラジオ番組「Technology Cruising Night」を持ち、�
 ## 教歴・インタビュー・講演実績（抜粋）
 
 - ElixirConf US 2022　※海外英語講演
-  - 2021年10月14日：「Live coding in 20 minites of a membership site by Phoenix and phx_gen_auth」【オンラインで推定100名】
-- Developer Summit
+  - 2021年10月14日：講演「Live coding in 20 minites of a membership site by Phoenix and phx_gen_auth」【オンラインで推定100名】
+- Brooklyn Zelenka and The Exciting World of Edge Computing Podcast翻訳解説（YouTubeライブ配信）
+  - 2022年04月15日：パネルディスカッション「ElixirでWeb3／DID開発をしている人のお話」
+  - 2022年03月10日：パネルディスカッション「Elixirで分散データ開発をしている人のお話」
+  - 2022年03月06日：パネルディスカッション「パラダイムシフトはもう始まってる！半径0～5mのエッジコンピューティング」
+  - 2022年02月28日：パネルディスカッション「惑星間ファイルシステムをElixirで作っちゃった人のお話」
+- デブサミ（Developer Summit）
   - 2018年09月06日：講演「Google Cloud AutoML最新AI技術『NAS(Neural Architecture Search)』を紐解く」【180名】
 - enPiT everi Future Session
   - 2018年03月04日：講演「最先端のAI・IoT・ビックデータの活用方法」【200名】
@@ -117,6 +122,14 @@ FM KITAQで自身のラジオ番組「Technology Cruising Night」を持ち、�
   - 2021年11月30日：講演「技術者養成講座 意思決定のためのAI・ML講座 ～現実とメタバースが同居する時代のAI・ML～」【30名】
   - 2020年10月30日：講演「技術者養成講座 AIセミナー ～AI・ML基礎と最新技術YOLO、BERT／ViT、AutoML Zero～」【30名】
   - 2019年10月11日：講演「技術者養成講座 AI活用事例セミナー」【30名】
+- WEB+DB PRESS vol.127 Phoenix特集出版記念講演（YouTubeライブ配信）
+  - 2022年03月08日：パネルディスカッション「WEB+DB PRESS vol.127 Phoenix特集こたつで座談会」
+  - 2022年03月05日：パネルディスカッション「WEB+DB PRESS Phoenix特集」トークイベント前夜祭配信
+- アキナと夜会（YouTubeライブ配信）
+  - 2022年02月24日：パネルディスカッション「バーチャル女子の自我形成♪放火後ディベートタイム」
+  - 2021年06月18日：パネルディスカッション「エンジニアは花形…ただし『競争領域』に限る」
+  - 2022年05月14日：パネルディスカッション「IT領域の競争と非競争（DXは競争）」
+  - 2022年04月08日：パネルディスカッション「地方創生と事業、あとVR／AR」
 - FM KITAQ（ラジオ）
   - 2022年9月23日：「Technology Cruising Night」第31回ゲスト講演
   - 2020年4月24日～現在：「Technology Cruising Night」番組構成 兼 パーソナリティ
