@@ -38,7 +38,7 @@ Elixir（分散・並行・並列）とVR／AR、Web3／DID、エッジコンピ
 
 また近年、若手や他業種から転向組、大学生／高専生／スクール生のエンジニア育成と、組織拡大による世界進出にチカラを入れている
 
-FM KITAQラジオ番組「Technology Cruising Night」のパーソナリティという顔も持っている
+年間の講演回数は毎年30本を越え、FM KITAQラジオ番組「Technology Cruising Night」のパーソナリティという顔も持っている
 
 ## 所属・肩書
 
