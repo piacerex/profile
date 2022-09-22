@@ -1,6 +1,6 @@
 # 森 正和（もり まさかず） / piacere
 
-![image.png](me.png)
+![image](https://user-images.githubusercontent.com/18749428/191774095-ad5239df-6bb6-4d60-a382-dd59d12efcd7.png)
 
 - Twitter／NeosVR：@piacere_ex
 - Facebook／Instagram：masakazu.ex
@@ -16,5 +16,5 @@
 
 ## 教歴・講演実績（抜粋）
 
-- 
-
+- 北九州市立大学
+  - 2018年08月31日	教材制作	enPiT everi「おもてなしIoT」教材
