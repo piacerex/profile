@@ -2,6 +2,10 @@
 
 ![image.png](me.png)
 
+- Twitter／NeosVR：@piacere_ex
+- Facebook／Instagram：masakazu.ex
+- Github／Qiita：@piacerex
+
 ## 所属・肩書
 
 - 株式会社DigiDockConsulting 常務取締役 CTO
