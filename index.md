@@ -50,7 +50,7 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
 - 九州国際Elixir連盟 理事
 - 有限会社デライトシステムズ 技術顧問
 - masq investment Ltd. 技術顧問
-- Elixir専門スクール「Elixir |> College」代表
+- Elixir専門スクール「Elixir ｜> College」代表
 - LiveView専門コミュニティ「LiveView JP」代表
 - Elixir専門コミュニティ「ElixirImp」代表
 - 福岡上級AI開発コミュニティ「IAIFukuoka」代表
@@ -69,7 +69,7 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
 - 2019年：先端テクノロジー／IT番組「Technology Cruising Night」発足、パーソナリティ就任（現職）
 - 2019年：九州国際Elixir連盟設立、理事就任（現職）
 - 2019年：ElixirConf JP設立、代表就任（現職）
-- 2019年：Elixir専門スクール「Elixir |> College」設立、代表就任（現職）
+- 2019年：Elixir専門スクール「Elixir ｜> College」設立、代表就任（現職）
 - 2018年：福岡上級AI開発コミュニティ「IAIFukuoka」設立、代表就任（現職）
 - 2018年：人工知能技術専門プログラミングスクール「AIジョブカレ」福岡講師（ディープラーニング講座／機械学習講座）就任（現職）
 - 2018年：カラビナテクノロジー株式会社入社、執行役員／専門役員就任（現職）
