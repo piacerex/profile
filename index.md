@@ -197,7 +197,7 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
   - 2021年04月22日：講演「Express／PHP並にお気軽Web／API開発OSS『Shotrize』ライブコーディング」【24名】
   - 2020年12月10日：講演：クラウドの外でエッジサーバを作るためのElixir技術スタック」【19名】
   - 2020年11月10日：講演：Phoenix WebSocketで「VRの世界」を現実にAR投影②」【23名】
-  - 2020年10月30日：記念講演「kochi.ex#4／NeosVRとElixir／Phoenix WebSocketを繋いで実現するVR |> AR投影」【12名】
+  - 2020年10月30日：記念講演「kochi.ex#4／NeosVRとElixir／Phoenix WebSocketを繋いで実現するVR ｜> AR投影」【12名】
   - 2020年09月30日：講演：Phoenix WebSocketで「VRの世界」を現実にAR投影①」【56名】
   - 2019年10月30日：講演「北九州でやっているElixir事業展開」【34名】
   - 2019年10月11日：招待講演「Elixirでインダストリー4.0」【13名】
