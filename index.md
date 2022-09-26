@@ -57,7 +57,7 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
 - Elixir専門コミュニティ「ElixirImp」代表
 - 福岡上級AI開発コミュニティ「IAIFukuoka」代表
 - 人工知能技術専門プログラミングスクール「AIジョブカレ」講師（ディープラーニング講座／機械学習講座）
-- FM KITAQ 先端テクノロジー／IT番組「Technology Cruising Night」パーソナリティ
+- FM KITAQ 先端テクノロジーラジオ番組「Technology Cruising Night」パーソナリティ
 
 ## 略歴
 
@@ -68,7 +68,7 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
 - 2020年：株式会社DigiDockConsulting設立、CTO就任（現職）
 - 2020年：Elixir専門コミュニティ「Elixir Digitalization Implementors（現ElixirImp）」設立、代表就任（現職）
 - 2017年：小倉Elixirコミュニティ「kokura.ex」設立、代表就任
-- 2019年：先端テクノロジー／IT番組「Technology Cruising Night」発足、パーソナリティ就任（現職）
+- 2019年：FM KITAQ 先端テクノロジーラジオ番組「Technology Cruising Night」発足、パーソナリティ就任（現職）
 - 2019年：九州国際Elixir連盟設立、理事就任（現職）
 - 2019年：ElixirConf JP設立、代表就任（現職）
 - 2019年：Elixir専門スクール「Elixir ｜> College」設立、代表就任（現職）
