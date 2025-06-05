@@ -83,19 +83,22 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
 ※【カッコ内は参加者数】
 
 - ElixirConf US 2021（海外英語講演）
-  - 2021年10月14日：講演[「Live coding in 20minites of a membership site by Phoenix & phx_gen_auth」YouTubeアーカイブ](https://www.youtube.com/watch?v=t5TT0-mI2O4)【500名】
+  - 2021年10月14日：講演[「Live coding in 20minites of a membership site by Phoenix & phx_gen_auth」](https://www.youtube.com/watch?v=t5TT0-mI2O4)【500名】
 - Qiita関連講演
-  - 2023年1月20日：Advent Calendar 2022 Online Meetup講演[「凄まじい野望とプロダクトは、年末のコラム書きから始まる」YouTubeアーカイブ](https://www.youtube.com/watch?v=yGr3efYUz2s&t=862s)【1,241名】
-  - 2024年3月27日：Qiitaアドカレおつかれさま会 講演[「7年間アドカレ続け、トップランカー入りしたElixirにようこそ!!」](https://speakerdeck.com/piacerex/7nian-jian-sok-ke-totupurankaru-risitaelixirniyoukoso)【30名】
+  - 2023年1月20日：Advent Calendar 2022 Meetup[「凄まじい野望とプロダクトは、年末のコラム書きから始まる」](https://www.youtube.com/watch?v=yGr3efYUz2s&t=862s)【1,241名】
+  - 2024年3月27日：Qiitaアドカレおつかれさま会[「7年間アドカレ続け、トップランカー入りしたElixirにようこそ!!」](https://speakerdeck.com/piacerex/7nian-jian-sok-ke-totupurankaru-risitaelixirniyoukoso)【30名】
+- ElixirChip関連講演
+  - 2023年01月20日：fukuoka.ex#54 宇宙衛星ほか@マネーフォワード[ElixirChip、次世代と宇宙にブッ飛ぶ](https://speakerdeck.com/piacerex/elixir-chip-ci-shi-dai-toyu-zhou-nibutufei-bu)【81名】
+  - 2025年04月16日：[ElixirがHW化され、最新CPU／GPU／NWを過去のものとする数万倍、高速＋超省電力化されたWeb／動画配信／AIが動く日](https://speakerdeck.com/piacerex/elixirgahwhua-sare-zui-xin-cpu-slash-gpu-slash-nwwoguo-qu-nomonotosurushu-mo-bei-gao-su-plus-chao-sheng-dian-li-hua-saretaweb-slash-dong-hua-pei-xin-slash-aigadong-kuri-ce6de831-2de7-45f1-a28b-85e56bcfb436)【17名】
 - 総務省
-  - 2022年10月30日：講演[「本当のDXはSF的で未来志向、そしてサイバーパンク」](https://speakerdeck.com/piacerex/ben-dang-nodxhasfde-dewei-lai-zhi-xiang-sositesaibapanku-from-zong-wu-sheng-ictji-shu-semina-zi-fen-gotonisurudx-c3b4289a-acd5-41be-942a-4cdd73f5890d)【550名】
+  - 2022年10月30日：[「本当のDXはSF的で未来志向、そしてサイバーパンク」](https://speakerdeck.com/piacerex/ben-dang-nodxhasfde-dewei-lai-zhi-xiang-sositesaibapanku-from-zong-wu-sheng-ictji-shu-semina-zi-fen-gotonisurudx-c3b4289a-acd5-41be-942a-4cdd73f5890d)【550名】
 - デブサミ（Developer Summit） 2018
-  - 2018年09月06日：講演[「Google Cloud AutoML最新AI技術『NAS(Neural Architecture Search)』を紐解く」](https://speakerdeck.com/piacerex/zui-xin-aiji-shu-nas-neural-architecture-search-woniu-jie-ku-google-cloud-automlfalseli-ce-wojian-teiku)【180名】
+  - 2018年09月06日：[「Google Cloud AutoML最新AI技術『NAS(Neural Architecture Search)』を紐解く」](https://speakerdeck.com/piacerex/zui-xin-aiji-shu-nas-neural-architecture-search-woniu-jie-ku-google-cloud-automlfalseli-ce-wojian-teiku)【180名】
 - 関数型プログラミングカンファレンス2019 in Japan
-  - 2019年11月10日：講演[「ElixirとHaskellの根底にある同じもの、そして、Elixirが辿った道」](https://speakerdeck.com/piacerex/elixirtohaskellfalsegen-di-niarutong-zimofalse-sosite-elixirgachan-tutadao)【106名】
+  - 2019年11月10日：[「ElixirとHaskellの根底にある同じもの、そして、Elixirが辿った道」](https://speakerdeck.com/piacerex/elixirtohaskellfalsegen-di-niarutong-zimofalse-sosite-elixirgachan-tutadao)【106名】
 - ElixirConf JP 2019
-  - 2019年09月07日：講演「並列ライブラリ『Flow』の破壊的パラダイムシフトとデータ処理の未来」【109名】
-  - 2019年09月07日：講演「Elixir、そしてあなたと共に歩む道 ～世界へ進出し、産業を変革する3年間～」【109名】
+  - 2019年09月07日：「並列ライブラリ『Flow』の破壊的パラダイムシフトとデータ処理の未来」【109名】
+  - 2019年09月07日：「Elixir、そしてあなたと共に歩む道 ～世界へ進出し、産業を変革する3年間～」【109名】
 - 北九州市立大学
   - 2021年10月01日～2024年01月14日：後期必修科目「プログラミング論」【例年約80名】
   - 2020年02月03日～2021年03月02日：特別講義「Elixir／PhoenixによるWeb開発演習、3D点群処理の高速化設計指南」【4名】
@@ -104,15 +107,15 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2018年10月22日：特別講義「Elixir／Phoenixによる関数型Web開発演習」【10名】
   - 2018年08月31日：enPiT everi「おもてなしIoT」教材制作
 - 高知県工業技術センター
-  - 2024年12月06日：[講演「技術者養成講座 ノーコードと生成AI 、IoTが繋がると何が出来るか？」](https://speakerdeck.com/piacerex/nokodotosheng-cheng-ai-iotgaxi-garutohe-gachu-lai-ruka)【40名】
-  - 2024年02月09日：講演[「技術者養成講座 デジタルツインと生成AIが繋がった世界を構築する」](https://speakerdeck.com/piacerex/dezitarutuintosheng-cheng-aigaxi-gatutashi-jie-wogou-zhu-suru)【40名】
-  - 2023年09月15日：講演[「技術者養成講座 最近トレンドの生成AIを使いこなす ～はじめての生成AIからビジネス活用、AIの未来を1.5時間で～」](https://speakerdeck.com/piacerex/zui-jin-torendonosheng-cheng-ainituite-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【15名】
-  - 2023年02月17日：講演[「技術者養成講座 最近トレンドのAI手法 ～AI・ディープラーニングの初歩から先端モデルまでを2時間で～」](https://speakerdeck.com/piacerex/ainoji-ben-karazui-jin-torendoaishou-fa-made-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【30名】
-  - 2021年12月08日：講演[「技術者養成講座 意思決定のためのAI・ML ～現実とメタバースが同居する時代のAI・ML～」](https://speakerdeck.com/piacerex/yi-si-jue-ding-notamenoaiml-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【30名】
-  - 2020年10月30日：講演「技術者養成講座 AI・ML基礎と最新技術YOLO、BERT／ViT、AutoML Zero」【30名】
-  - 2019年10月11日：講演「技術者養成講座 AI活用事例セミナー」【30名】
+  - 2024年12月06日：[「技術者養成講座 ノーコードと生成AI 、IoTが繋がると何が出来るか？」](https://speakerdeck.com/piacerex/nokodotosheng-cheng-ai-iotgaxi-garutohe-gachu-lai-ruka)【40名】
+  - 2024年02月09日：[「技術者養成講座 デジタルツインと生成AIが繋がった世界を構築する」](https://speakerdeck.com/piacerex/dezitarutuintosheng-cheng-aigaxi-gatutashi-jie-wogou-zhu-suru)【40名】
+  - 2023年09月15日：[「技術者養成講座 最近トレンドの生成AIを使いこなす ～はじめての生成AIからビジネス活用、AIの未来を1.5時間で～」](https://speakerdeck.com/piacerex/zui-jin-torendonosheng-cheng-ainituite-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【15名】
+  - 2023年02月17日：[「技術者養成講座 最近トレンドのAI手法 ～AI・ディープラーニングの初歩から先端モデルまでを2時間で～」](https://speakerdeck.com/piacerex/ainoji-ben-karazui-jin-torendoaishou-fa-made-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【30名】
+  - 2021年12月08日：[「技術者養成講座 意思決定のためのAI・ML ～現実とメタバースが同居する時代のAI・ML～」](https://speakerdeck.com/piacerex/yi-si-jue-ding-notamenoaiml-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【30名】
+  - 2020年10月30日：「技術者養成講座 AI・ML基礎と最新技術YOLO、BERT／ViT、AutoML Zero」【30名】
+  - 2019年10月11日：「技術者養成講座 AI活用事例セミナー」【30名】
 - オープンセミナー広島
-  - 2019年02月23日：講演[「『歴史に学ぶ』『未来を予測』そして『今日どう生きるか』」](https://speakerdeck.com/piacerex/li-shi-nixue-bu-wei-lai-woyu-ce-suru-sosite-jin-ri-dousheng-kirukakao-eru)【101名】
+  - 2019年02月23日：[「『歴史に学ぶ』『未来を予測』そして『今日どう生きるか』」](https://speakerdeck.com/piacerex/li-shi-nixue-bu-wei-lai-woyu-ce-suru-sosite-jin-ri-dousheng-kirukakao-eru)【101名】
 - Brooklyn Zelenka and The Exciting World of Edge Computing Podcast翻訳解説（YouTubeライブ配信）
   - 2022年04月15日：パネルディスカッション「ElixirでWeb3／DID開発をしている人のお話」
   - 2022年03月10日：パネルディスカッション「Elixirで分散データ開発をしている人のお話」
@@ -123,9 +126,9 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2021年07月16日：特別講義「エンジニアは花形…ただし『競争領域』に限る」【30名】
   - 2021年06月15日：特別講義「日本のITの『これまで』と『これから』 ～IT企業に行く皆さまへ、現役ITの現場から～」【30名】
 - 福岡市関連
-  - 2019年09月11日：講演「Fukuoka.dev：昨年12月から、AWSとLambdaでElixirが使えてたってご存知ですか？」【19名】
-  - 2019年07月20日：講演「FUKUOKA Engineers Day 2019：Why Elixir?＋ElixirConf JP 2019ご紹介」【156名】
-  - 2018年10月27日：講演「Agile Japan 2018：2002年から18年間、XPerとして見てきたアジャイルの変遷、そして未来」【18名】
+  - 2019年09月11日：「Fukuoka.dev：昨年12月から、AWSとLambdaでElixirが使えてたってご存知ですか？」【19名】
+  - 2019年07月20日：「FUKUOKA Engineers Day 2019：Why Elixir?＋ElixirConf JP 2019ご紹介」【156名】
+  - 2018年10月27日：「Agile Japan 2018：2002年から18年間、XPerとして見てきたアジャイルの変遷、そして未来」【18名】
   - 2017年07月28日：パネルディスカッション「Fukuoka CTO meetup」【98名】
 - 北九州市関連
   - 2021年09月15日：オンラインセミナー「北九州マーケティングDX道場：イチから学ぶ『DX概論』」
@@ -133,23 +136,47 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2021年01月20日：特別講演「福岡Elixirコミュニティのご紹介＋今後のElixirが迎える展開」【30名】
   - 2020年01月24日：パネルディスカッション「5G × 北九州＠小倉城天守閣『近未来の最前線』ミートアップ」【45名】
   - 2019年10月07日：特別講演「北九州とアジア、そして世界のITを変革するIoT／AI／Web技術を小倉城で発表」【44名】
-  - 2019年08月22日：講演「Code for KitaQ：福岡でElixirを展開した3年間＋ElixirConf JP 2019ご紹介」【16名】
-- 最新バックエンド会議
-  - 2021年08月05日：パネルディスカッション「これからのRubyの話をしよう。そして、Elixirとの共存について」【284名】
-- enPiT everi Future Session
-  - 2018年03月04日：講演「最先端のAI・IoT・ビックデータの活用方法」【200名】
+  - 2019年08月22日：「Code for KitaQ：福岡でElixirを展開した3年間＋ElixirConf JP 2019ご紹介」【16名】
+- 福岡デザイン＆テクノロジー専門学校
+  - 2020年02月18日：特別講義「AIとML、DLの歴史、現在の社会実装／先端研究」【12名】
 - 西日本工業大学
   - 2018年12月11日：特別講義「宇宙の開発してみませんか？ ～北九州から世界を超えて～」【20名】
 - WEB+DB PRESS vol.127 Phoenix特集出版記念講演（YouTubeライブ配信）
   - 2022年03月08日：パネルディスカッション「WEB+DB PRESS vol.127 Phoenix特集こたつで座談会」
   - 2022年03月05日：パネルディスカッション「WEB+DB PRESS Phoenix特集」トークイベント前夜祭配信
+- enPiT everi Future Session
+  - 2018年03月04日：「最先端のAI・IoT・ビックデータの活用方法」【300名】
+- 最新バックエンド会議
+  - 2021年08月05日：パネルディスカッション「これからのRubyの話をしよう。そして、Elixirとの共存について」【284名】
+- AI・ML・データサイエンス関連
+  - 2020年12月14日：「自然言語解析モデルBERTとその後継の先端モデル」【10名】
+  - 2020年09月17日：「JDLA E資格 2020年度追加シラバスの攻略」【6名】
+  - 2020年06月20日：「意思決定のためのデータ分析勉強会：D2C時代に突入して変革したデータ分析」【132名】
+  - 2020年06月17日：「自宅でじっくり腰を据えて最新論文を探す方法」【4名】
+  - 2020年03月13日：「ディープラーニングコースの現在状況」【8名】
+  - 2020年02月06日：「JDLA E資格 2020年度追加シラバスの攻略」【11名】
+  - 2019年03月16日：[「Elixirで始めるデータサイエンス入門 ～Elixir製データサイエンスプラットフォーム「Esuna」にて～」](https://speakerdeck.com/piacerex/elixirdeshi-merudetasaiensuru-men-elixirzhi-detasaiensupuratutohuomu-esuna-nite)【57名】
+  - 2019年03月16日：[「GCPUG Kumamoto：BigQuery＋BigQueryMLでKaggle機械学習を攻略してみた」](https://speakerdeck.com/piacerex/gcpug-kitakyu-number-1-xiong-ben-number-1-bigquery-bigquerymldekaggleji-jie-xue-xi-wogong-lue-sitemita)【20名】
+  - 2019年02月14日：「GCPUG kitakyu：BigQuery MLでKaggle機械学習を攻略する」【13名】
+  - 2019年01月17日：「DATA SCIENCE WAY：AI・ML案件をコケさせない3つのティッピングポイント」【13名】
+  - 2018年10月20日：「ML/DL Meetup：ベテランエンジニアほど罠にハマる、通常SIと、AI・ML開発の相違点」【73名】
+  - 2018年06月30日：「PyCon Kyushu：最新AI技術『カプセルネットワーク』『転移学習』『QRNN』を実装」【155名】
+  - 2018年01月26日：「AI入門 第4回：TensorBoardでディープラーニングの中身を覗いて、育ちを観察する」【24名】
+  - 2017年12月01日：ハンズオン「ディープラーニングプログラミング入門」【22名】
+  - 2017年09月29日：「AI入門 第3回：数学が苦手でも作って使えるKerasディープラーニング開発」【27名】
+  - 2017年08月04日：「AI入門 第1回：AIの進化とTensorFlow ～画像認識・加工でワイワイしよう！～」【36名】
+- AIジョブカレ
+  - 2020年03月12日～2020年06月25日：講義（全10回）ディープラーニング講座【6名】
+  - 2019年09月12日～2020年01月09日：講義（全10回）ディープラーニング講座【7名】
+  - 2019年02月07日～2018年06月18日：講義（全10回）ディープラーニング講座【5名】
+  - 2018年08月16日～2018年12月13日：講義（全10回）ディープラーニング講座【8名】
+  - 2018年04月26日～2018年08月02日：講義（全8回）機械学習講座【7名】
+  - 2018年01月11日～2018年04月12日：講義（全8回）機械学習講座【3名】
 - アキナと夜会（YouTubeライブ配信）
   - 2022年02月24日：パネルディスカッション「バーチャル女子の自我形成♪放火後ディベートタイム」
   - 2021年06月18日：パネルディスカッション「エンジニアは花形…ただし『競争領域』に限る」
   - 2022年05月14日：パネルディスカッション「IT領域の競争と非競争（DXは競争）」
   - 2022年04月08日：パネルディスカッション「地方創生と事業、あとVR／AR」
-- 福岡デザイン＆テクノロジー専門学校
-  - 2020年02月18日：特別講義「AIとML、DLの歴史、現在の社会実装／先端研究」【12名】
 - Elixir ｜> College
   - 2019年11月20日～2020年01月08日：講座（全4回 北九州）コンピュータ入門＋Elixirプログラミング入門【8名】
   - 2020年02月12日～2020年03月25日：講座（全4回 東京）コンピュータ入門＋Elixirプログラミング入門【9名】
@@ -163,83 +190,63 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2020年10月01日～2021年01月22日：原作／監修 「Elixir」開発者育成シリーズ「B01：Elixirプログラミング入門」
   - 2020年10月01日～2021年01月22日：原作／監修 「Elixir」開発者育成シリーズ「B02：Elixir実践開発講座」
   - 2020年10月01日～2021年01月22日：原作／監修 「Elixir」開発者育成シリーズ「B03：Elixir本番環境構築＆リリース講座」
-- AIジョブカレ
-  - 2020年03月12日～2020年06月25日：講義（全10回）ディープラーニング講座【6名】
-  - 2019年09月12日～2020年01月09日：講義（全10回）ディープラーニング講座【7名】
-  - 2019年02月07日～2018年06月18日：講義（全10回）ディープラーニング講座【5名】
-  - 2018年08月16日～2018年12月13日：講義（全10回）ディープラーニング講座【8名】
-  - 2018年04月26日～2018年08月02日：講義（全8回）機械学習講座【7名】
-  - 2018年01月11日～2018年04月12日：講義（全8回）機械学習講座【3名】
-- AI・ML・データサイエンス関連
-  - 2020年12月14日：講演「自然言語解析モデルBERTとその後継の先端モデル」【10名】
-  - 2020年09月17日：講演「JDLA E資格 2020年度追加シラバスの攻略」【6名】
-  - 2020年06月20日：講演「意思決定のためのデータ分析勉強会：D2C時代に突入して変革したデータ分析」【132名】
-  - 2020年06月17日：講演「自宅でじっくり腰を据えて最新論文を探す方法」【4名】
-  - 2020年03月13日：講演「ディープラーニングコースの現在状況」【8名】
-  - 2020年02月06日：講演「JDLA E資格 2020年度追加シラバスの攻略」【11名】
-  - 2019年03月16日：講演「GCPUG Kumamoto：BigQuery＋BigQueryMLでKaggle機械学習を攻略してみた」【20名】
-  - 2019年02月14日：講演「GCPUG kitakyu：BigQuery MLでKaggle機械学習を攻略する」【13名】
-  - 2019年01月17日：講演「DATA SCIENCE WAY：AI・ML案件をコケさせない3つのティッピングポイント」【13名】
-  - 2018年10月20日：講演「ML/DL Meetup：ベテランエンジニアほど罠にハマる、通常SIと、AI・ML開発の相違点」【73名】
-  - 2018年06月30日：講演「PyCon Kyushu：最新AI技術『カプセルネットワーク』『転移学習』『QRNN』を実装」【155名】
-  - 2018年01月26日：講演「AI入門 第4回：TensorBoardでディープラーニングの中身を覗いて、育ちを観察する」【24名】
-  - 2017年12月01日：ハンズオン「ディープラーニングプログラミング入門」【22名】
-  - 2017年09月29日：講演「AI入門 第3回：数学が苦手でも作って使えるKerasディープラーニング開発」【27名】
-  - 2017年08月04日：講演「AI入門 第1回：AIの進化とTensorFlow ～画像認識・加工でワイワイしよう！～」【36名】
 - Elixir関連
-  - 2022年09月17日：講演「Livebook新フィーチャーライブデモ from ElixirConf 2022 US」【29名】
+  - 2024年05月08日：[「とうとう実践配備された ElixirDesktopにようこそ!!」](https://speakerdeck.com/piacerex/toutoushi-jian-pei-bei-sareta-elixirdesktopniyoukoso)【12名】
+  - 2023年08月16日：[「Elixirでマイクロサービスパターン【前編】 ～AI・MLとエッジコンピューティングも～」](https://speakerdeck.com/piacerex/elixirdemaikurosabisupatan-qian-bian-aimltoetuzikonpiyuteingumo)【23名】
+  - 2022年09月17日：「Livebook新フィーチャーライブデモ from ElixirConf 2022 US」【29名】
   - 2022年08月17日：パネルディスカッション「実際にPJで『Elixirスキルシート』を使っている方々で座談会」【24名】
-  - 2022年08月17日：講演「『Elixirスキルシート』を運用始めて1年半後、スキルDB配信することになった」【24名】
+  - 2022年08月17日：「『Elixirスキルシート』を運用始めて1年半後、スキルDB配信することになった」【24名】
   - 2022年07月26日：モブプログラミング「新Livebookフィーチャ紹介＋AxonOnnxで画像識別MLをみんなで作る」【23名】
-  - 2022年07月20日：講演「ElixirDesktop入門：Web＋スマホを1つのソースで ＆ API Hellに陥らない開発体験」【29名】
-  - 2022年06月28日：講演「『Elixir生誕10周年』から10年後の未来～WebからLiveView、Web3、メタバース、その先」【44名】
-  - 2022年06月15日：講演「fukuoka.ex全史：『7年前から振り返るElixirテクノロジーの変遷』」【25名】
-  - 2022年05月18日：講演「『Elixirお仕事』を5年前に作り始め、今どこまで来ているのか？」【38名】
-  - 2022年04月26日：講演「Livebook入門ライブコーディング＋Nxの関数を幾つか叩いてみる」【19名】
-  - 2022年03月22日：講演「LiveView入門ライブコーディング」【31名】
-  - 2022年02月22日：講演「Livebook＋Nxで行列操作による画像加工で遊ぶ」【26名】
-  - 2022年02月16日：講演「Elixirで起業し、案件を作り、『本業』と『副業』、そして『見習い』の雇用を創る」【52名】
-  - 2022年01月25日：講演「Communitexのユーザと商品で使われるLiveView Upload」【21名】
-  - 2022年01月19日：講演「"Elixirの現在" を学べて『Elixir生誕10周年』の今年を一緒に盛り上がれるブリーフィング」【25名】
-  - 2021年12月26日：講演「メタバースとAI・ML、エッジコンピューティング、スマホ…これらをElixirだけで済ませる」【19名】
-  - 2021年12月21日：講演「Livebook案内①：NumPy相当の『Nx』でLivebookライブコーディング」【17名】
+  - 2022年07月20日：「ElixirDesktop入門：Web＋スマホを1つのソースで ＆ API Hellに陥らない開発体験」【29名】
+  - 2022年06月28日：「『Elixir生誕10周年』から10年後の未来～WebからLiveView、Web3、メタバース、その先」【44名】
+  - 2022年06月15日：[「fukuoka.ex全史：『7年前から振り返るElixirテクノロジーの変遷』」](https://speakerdeck.com/piacerex/elixirimp-number-21-fukuoka-dot-exquan-shi-7nian-qian-karazhen-rifan-ruelixirtekufalserozifalsebian-qian)【25名】
+  - 2022年05月18日：「『Elixirお仕事』を5年前に作り始め、今どこまで来ているのか？」【38名】
+  - 2022年04月26日：「Livebook入門ライブコーディング＋Nxの関数を幾つか叩いてみる」【19名】
+  - 2022年03月22日：「LiveView入門ライブコーディング」【31名】
+  - 2022年02月22日：「Livebook＋Nxで行列操作による画像加工で遊ぶ」【26名】
+  - 2022年02月16日：「Elixirで起業し、案件を作り、『本業』と『副業』、そして『見習い』の雇用を創る」【52名】
+  - 2022年01月25日：「Communitexのユーザと商品で使われるLiveView Upload」【21名】
+  - 2022年01月19日：「"Elixirの現在" を学べて『Elixir生誕10周年』の今年を一緒に盛り上がれるブリーフィング」【25名】
+  - 2021年12月26日：「メタバースとAI・ML、エッジコンピューティング、スマホ…これらをElixirだけで済ませる」【19名】
+  - 2021年12月21日：「Livebook案内①：NumPy相当の『Nx』でLivebookライブコーディング」【17名】
   - 2021年12月08日：記念講演「意思決定のためのAI・機械学習」【22名】
-  - 2021年11月20日：講演「会員制サイトを20分でライブコーディングするネタをElixirConf USにブッ込んできた」【48名】
-  - 2021年11月24日：講演「大学生にOOPの歴史とElixirに辿り着くパスを話した」【8名】
-  - 2021年10月26日：講演「phx_gen_authで会員制サイトをライブコーディングする20分」【22名】
-  - 2021年10月21日：講演「ElixirConf登壇の夢叶い、Elixir生誕10周年の来年（更に加速）＋Elixirお仕事紹介」【25名】
-  - 2021年09月16日：講演「Faker：モンキーテストに使える様々な種類のダミーデータ自動生成」【26名】
-  - 2021年07月14日：講演「LiveView Uploadを使って作った会員制サイト+α」【26名】
-  - 2021年06月09日：講演「NeosVR夏の祭典『NeosFesta3』はHeroku上でPhoenix」【29名】
-  - 2021年04月22日：講演「Express／PHP並にお気軽Web／API開発OSS『Shotrize』ライブコーディング」【24名】
-  - 2020年12月10日：講演：クラウドの外でエッジサーバを作るためのElixir技術スタック」【19名】
-  - 2020年11月10日：講演：Phoenix WebSocketで「VRの世界」を現実にAR投影②」【23名】
+  - 2021年11月20日：「会員制サイトを20分でライブコーディングするネタをElixirConf USにブッ込んできた」【48名】
+  - 2021年11月24日：「大学生にOOPの歴史とElixirに辿り着くパスを話した」【8名】
+  - 2021年10月26日：「phx_gen_authで会員制サイトをライブコーディングする20分」【22名】
+  - 2021年10月21日：「ElixirConf登壇の夢叶い、Elixir生誕10周年の来年（更に加速）＋Elixirお仕事紹介」【25名】
+  - 2021年09月16日：「Faker：モンキーテストに使える様々な種類のダミーデータ自動生成」【26名】
+  - 2021年07月14日：「LiveView Uploadを使って作った会員制サイト+α」【26名】
+  - 2021年06月09日：「NeosVR夏の祭典『NeosFesta3』はHeroku上でPhoenix」【29名】
+  - 2021年04月22日：「Express／PHP並にお気軽Web／API開発OSS『Shotrize』ライブコーディング」【24名】
+  - 2020年12月10日：：クラウドの外でエッジサーバを作るためのElixir技術スタック」【19名】
+  - 2020年11月10日：：Phoenix WebSocketで「VRの世界」を現実にAR投影②」【23名】
   - 2020年10月30日：記念講演「kochi.ex#4／NeosVRとElixir／Phoenix WebSocketを繋いで実現するVR ｜> AR投影」【12名】
-  - 2020年09月30日：講演：Phoenix WebSocketで「VRの世界」を現実にAR投影①」【56名】
-  - 2019年10月30日：講演「北九州でやっているElixir事業展開」【34名】
+  - 2020年09月30日：：Phoenix WebSocketで「VRの世界」を現実にAR投影①」【56名】
+  - 2019年10月30日：「北九州でやっているElixir事業展開」【34名】
   - 2019年10月11日：招待講演「Elixirでインダストリー4.0」【13名】
-  - 2019年04月17日：講演「Lonestar ElixirConf 2019 Austinから知る世界のElixir事情」【52名】
-  - 2018年10月26日：講演「Elixir＋Vue.jsで2倍速開発」【31名】
-  - 2018年08月24日：講演「2020年までに福岡を『エンジニアの楽園』にするには？」【60名】
-  - 2018年06月22日：講演「1家に1台、パーソナルなデータ分析AIを全員が持つ2020年を作る」【50名】
-  - 2018年04月20日：講演「プログラミング未経験でもExcelできればElixirマスターできる」【28名】
+  - 2019年06月11日：[「Enum.mapから始めるElixirデータサイエンス」](https://speakerdeck.com/piacerex/enum-dot-mapkarashi-meruelixirdetasaiensu)【167名】
+  - 2019年04月17日：[「Lonestar ElixirConf 2019 Austinから知る世界のElixir事情」](https://speakerdeck.com/piacerex/lonestarelixirconf2019karazhi-rushi-jie-falseelixirshi-qing)【52名】
+  - 2018年10月26日：「Elixir＋Vue.jsで2倍速開発」【31名】
+  - 2018年08月24日：「2020年までに福岡を『エンジニアの楽園』にするには？」【60名】
+  - 2018年06月22日：「1家に1台、パーソナルなデータ分析AIを全員が持つ2020年を作る」【50名】
+  - 2018年04月20日：「プログラミング未経験でもExcelできればElixirマスターできる」【28名】
   - 2018年03月29日：ハンズオン「Elixir Webフレームワーク『Phoenix』プログラミング入門」【15名】
-  - 2018年02月23日：講演「2020年の後、訪れるIT投資激減とシステム崩壊、そして救世主Elixir」【21名】
-  - 2017年12月22日：講演「データサイエンスプラットフォーム構築 ～Elixir高速データクレンジング／集計／ML連携」【23名】
+  - 2018年02月23日：「2020年の後、訪れるIT投資激減とシステム崩壊、そして救世主Elixir」【21名】
+  - 2017年12月22日：「データサイエンスプラットフォーム構築 ～Elixir高速データクレンジング／集計／ML連携」【23名】
   - 2017年10月27日：ハンズオン「Elixir／Phoenixプログラミング入門」【19名】
-  - 2017年08月24日：講演「Elixirはtry…catchを書かない ～例外処理から耐障害性へのパラダイムシフト～」【13名】
-  - 2017年06月08日：講演「Elixir＋Elm～全てが関数型の分散シングルページアプリケーション開発」【27名】
+  - 2017年08月24日：[「Elixirはtry…catchを書かない ～例外処理から耐障害性へのパラダイムシフト～」](https://www.slideshare.net/slideshow/elixir6elixirtrycatch/80480071)【13名】
+  - 2017年06月08日：「Elixir＋Elm～全てが関数型の分散シングルページアプリケーション開発」【27名】
 - Forkwell Press
   - 2018年08月24日：インタビューコラム「福岡を、エンジニアの楽園にしたい」
 - 宇宙データ・相対性理論・量子力学関連
-  - 2020年07月10日：講演「重力プログラミング入門 第3回：太陽フレアをディープラーニングで予測する」【7名】
-  - 2019年05月24日：講演「数字や機械学習が苦手でもブラックホールが理解できる相対性理論のススメ」【12名】
-  - 2018年07月20日：講演「重力プログラミング入門 第6回：惑星の位置を計算する」【23名】
-  - 2018年05月31日：講演「重力プログラミング入門 第5回：ブラックホールを流体力学でシミュレーションする」【19名】
-  - 2018年03月16日：講演「重力プログラミング入門 第4回：スペースコロニー建造 ～宇宙空間での物体配置～」【37名】
-  - 2018年03月02日：講演「Elixir量子コンピュータシミュレータ『Quantex』」【31名】
-  - 2018年01月19日：講演「重力プログラミング入門 第2回：Python＋Jupyterで重力波を解析する」【20名】
-  - 2017年09月20日：講演「重力プログラミング入門 第1回：地球の重力下で人工衛星を公転軌道に乗せる」【32名】
+  - 2020年07月10日：「重力プログラミング入門 第3回：太陽フレアをディープラーニングで予測する」【7名】
+  - 2019年05月24日：「数字や機械学習が苦手でもブラックホールが理解できる相対性理論のススメ」【12名】
+  - 2018年07月20日：「重力プログラミング入門 第6回：惑星の位置を計算する」【23名】
+  - 2018年05月31日：「重力プログラミング入門 第5回：ブラックホールを流体力学でシミュレーションする」【19名】
+  - 2018年03月16日：「重力プログラミング入門 第4回：スペースコロニー建造 ～宇宙空間での物体配置～」【37名】
+  - 2018年03月02日：「Elixir量子コンピュータシミュレータ『Quantex』」【31名】
+  - 2018年01月19日：「重力プログラミング入門 第2回：Python＋Jupyterで重力波を解析する」【20名】
+  - 2017年09月20日：[「重力プログラミング入門 第1回：地球の重力下で人工衛星を公転軌道に乗せる」](https://www.slideshare.net/slideshow/fukuoka1/80022147)【32名】
 - NeosVR関連
   - 2020年11月26日：VR内ハンズオン「VRヘッドセットが無い方／使わない方限定のNeosVRプログラミング入門」【9名】
 - FM KITAQ（ラジオ）
