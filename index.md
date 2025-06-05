@@ -1,55 +1,55 @@
 # 森 正和（もり まさかず） / piacere
 
-- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/1441f277-a31c-4b66-b3ec-a5db7f0ca5ee.png)](https://qiita.com/piacerex) & [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/d9ce7e80-2acb-4574-9d42-b60ec6da442d.png)](https://github.com/piacerex/) & [![image]()]() & [![image]()](https://discord.com/channels/1028556271881818113/1028562061304799252) … @piacerex
-- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/0831f39d-f55f-464f-be7d-eb6c6bf72e1d.png)](https://x.com/piacere_ex) & [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/9f51b5d8-b34c-48d7-a9ca-e092294a7841.png)](https://store.steampowered.com/app/2519830/Resonite) … @piacere_ex
-- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/c2522322-d1ac-4150-a45d-10238bcdc22b.png)](https://www.facebook.com/masakazu.ex/) & [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/4cdfb9a0-a07b-489e-bf91-43698c6ce200.png)](https://www.facebook.com/masakazu.ex/) … @masakazu.ex
+- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/1441f277-a31c-4b66-b3ec-a5db7f0ca5ee.png)](https://qiita.com/piacerex) /  [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/d9ce7e80-2acb-4574-9d42-b60ec6da442d.png)](https://github.com/piacerex/) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/014f8e41-21c1-4f44-b474-9ad3f5f10b87.png)](https://www.youtube.com/@piacerex/videos) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/f9089cdf-96ec-4b87-8e01-a6c97750fa40.png)](https://discord.com/channels/1028556271881818113/1028562061304799252) … @piacerex
+- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/0831f39d-f55f-464f-be7d-eb6c6bf72e1d.png)](https://x.com/piacere_ex) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/9f51b5d8-b34c-48d7-a9ca-e092294a7841.png)](https://store.steampowered.com/app/2519830/Resonite) … @piacere_ex
+- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/c2522322-d1ac-4150-a45d-10238bcdc22b.png)](https://www.facebook.com/masakazu.ex/) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/4cdfb9a0-a07b-489e-bf91-43698c6ce200.png)](https://www.facebook.com/masakazu.ex/) … @masakazu.ex
 
 ## 目次
 
 - [プロフィール]([#プロフィール概略](/profile/#プロフィール))
   - [職業エンジニアとしてのキャリア](/profile/#職業エンジニアとしてのキャリア)
   - [専門領域・得意分野](/profile/#専門領域・得意分野)
-  - [趣味](/profile/#趣味)
-- [所属・肩書](/profile/#所属・肩書)
+  - [所属・肩書](/profile/#所属・肩書)
 - [教歴・インタビュー・講演実績（抜粋）](/profile/#教歴・インタビュー・講演実績（抜粋）)
 - [研究業績](/profile/#研究業績)
 - [マーケティング実績（抜粋）](/profile/#マーケティング実績（抜粋）)
-- [保有資格](/profile/#保有資格)
 - [略歴](/profile/#略歴)
+- [保有資格](/profile/#保有資格)
+- [趣味](/profile/#趣味)
 
-![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/c01740bd-8af3-4075-b988-b9dcd96f7a60.png)
+![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/11193de0-e813-4878-8b0f-836af8d230c2.png)
 
 ## プロフィール
 
-「40年以上前からプログラマ、書けるプログラミング言語は158言語」
+一言で言えば、「プログラマ歴40年以上のオールラウンダー」
 
-小学4年生（42年前）にゲームプログラミングを始め、現在も、プロダクトとOSSを開発し続け、事業やコミュニティ運営の優位性とする
+小学4年生にゲームプログラミングを始め、現在もプロダクトとOSSを開発し続ける現役のプロダクト開発者およびアーキテクトであり、事業やコミュニティ運営の優位性とする
 
-大手企業と自社を中心に、IT事業およびシステム開発／UX設計・UI制作／D2CマーケティングのコンサルティングやDX企画立案、メタバース／VR・AR／Web3／ブロックチェーン利用企画立案を手掛けつつ、現役・先端のプロダクト開発者およびアーキテクトである
+大手企業と自社を中心に、IT事業およびシステム開発／UX設計・UI制作／D2CマーケティングのコンサルティングやDX企画立案、メタバース／VR・AR／Web3・ブロックチェーン／宇宙データ活用の企画立案を手掛ける
 
-複数の技術コミュニティを設立・主催し、毎月のイベント開催やLT登壇、ライブコーディング／モブプログラミングを精力的にこなす
+複数の技術コミュニティを設立・主催し、毎月のイベント開催やLT登壇、ライブコーディング、モブプログラミングも精力的にこなす
 
 大学時は、独自分散OS／VM／コンパイラを研究・開発しており、2017年以降は分散・並行データサイエンス言語「Elixir」を「最後の言語で良い」と言うほどのレベルで心酔し、開発や事業構築の中核テクノロジーとして据えている
 
+書けるプログラミング言語は158言語
+
 ### 職業エンジニアとしてのキャリア
 
-個人プログラマ歴14年の状態で東証一部 大手SIer企業に就職し、「新人だがリードプログラマ」と言うポジショニングでキャリアをスタートする
+個人プログラマ歴14年を経た後、東証一部 大手SIer企業に就職し、「新人だがリードプログラマ」でキャリアをスタートする
 
 2年目からは複数PJのプロジェクトマネージャ 兼 技術営業としての経験を積み、4年目にはITスタートアップに移籍し、事業部長と上場支援を担当した後、10年目に独立
 
 独自マーケティングツールの開発・販売をしつつ、2011年から5年間、国内最大手IT企業の超大規模通信基盤開発でPdMおよび性能統括を担当
 
-2016~2018年には、200社以上の企業利用実績を持つマーケティングプロダクトの導入チーム統括と性能改善を担当
+2016～2018年には、200社以上の企業利用実績を持つマーケティングプロダクトの導入チーム統括と性能改善を担当
 
-その後、複数IT企業の経営支援とコンサルティング、PMO、PMMを経験し、自らのIT事業経営の基盤を固める
+その後、複数IT企業の経営支援とコンサルティング、スタートアップ設立、PMO、PMMと言ったノウハウ重視の実務家として、自らのIT事業経営の基盤を固める
 
-現在、IT企業3社のCETO・CTO・CDOとして経営と技術統括を担当しつつ、他3社の技術顧問にも就任し、現在に至る
-
-[略歴はコチラ](/profile/#略歴)
+現在、IT企業3社のCETO・CTO・CDOとして経営と技術統括を担当し、現在に至る
 
 ## 所属・肩書
 
-- 株式会社DigiDockConsulting CETO／ファウンダー
+- 株式会社DigiDockConsulting ファウンダー／CETO
 - 株式会社ザワッグル CDO（Chief Digital Officer）
 - カラビナテクノロジー株式会社 専門役員
 - 北九州市立大学 国際環境工学部 非常勤講師（教授級）
@@ -57,7 +57,6 @@
 - ElixirConf JP ファウンダー
 - 九州国際Elixir連盟 理事
 - 有限会社デライトシステムズ 技術顧問
-- masq investment Ltd. ファウンダー
 - LiveView専門コミュニティ「LiveView JP」代表
 - Elixir専門コミュニティ「ElixirImp」代表
 - 福岡Elixirコミュニティ「fukuoka.ex」ファウンダー
@@ -69,24 +68,15 @@
 
 システム立案／データ分析／性能確保が専門であり、先端技術の未来予測を背景とする事業戦略立案とシミュレーションを得意とする
 
-技術のオールラウンダーであり、中核たるElixir（分散・並列）を始め、AI・LLM、エッジコンピューティング、VR／AR、Web3／BC／DID、Web／モバイル開発を現役エンジニアとして最前線で実践する
+Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティング、VR／AR、Web3／ブロックチェーン／DID、Web／モバイル開発といった各種先端技術にも強みを持つ
 
-通信／金融・証券／小売／教育（e-learning）の業界知識も豊富に持ち、また開発だけに留まらず、マーケティングやセールスにおける実績も多く持つ
+通信／金融・証券／小売／教育（e-learning）の業界知識も豊富に持ち、開発だけに限らないマーケティング／セールスの実績も多く持つ
 
-多数のコミュニティ発足・主催実績に裏付けられた、ファンと事業の担い手とを繋ぐD2C構築と、市場平均よりも圧倒的に優秀なエンジニア／専門家の調達（コストも1%程度）に定評がある
+多数のコミュニティ発足・主催実績に裏付けられた、ファンと事業の担い手とを繋ぐD2C構築と、市場平均よりも圧倒的に優秀なエンジニアと専門家の調達（コストも市場平均の1%程度）に定評がある
 
-年間の講演回数は30本を越え、各地方自治体や世界的企業からの登壇依頼・登壇実績も多数こなす
+年間の講演回数は30本を越え、各地方自治体や世界的企業からの登壇依頼・登壇実績も精力的に多数こなす
 
-最近は、エンジニア育成（若手、他業種からの転向、大学生／高専生／スクール生）と、宇宙関連ないしはカーボンニュートラル関連の国PJ、プロプライエタリ・テクノロジーを背景とした世界進出にチカラを入れている
-
-### 趣味
-
-超高速／省電力 非ノイマン型CPU開発
-大学・高専・企業でプログラミング&AI講義
-fukuoka.ex／ElixirConf JP創設
-
-2023年スペ107コスプレ開始、体脂肪-9.2kg/5ヶ月
-2025年1月STEPN開始、3月STEPNGO開始⋯毎日プレイ
+最近は、非ノイマン型独自チップ開発のようなプロプライエタリ・テクノロジーを背景とした現実改変と世界進出、エンジニア育成（若手、他業種からの転向、大学生／高専生／スクール生）、宇宙関連ないしはカーボンニュートラル関連の国PJへの提案の3領域にチカラを入れている
 
 ## 教歴・インタビュー・講演実績（抜粋）
 
@@ -275,6 +265,36 @@ fukuoka.ex／ElixirConf JP創設
 - 2006年～2009年：独自マーケティングツール開発・販売、クリックストリームやヒートマップの分析、スクロール離脱検出を搭載
 - 2003年～2007年：コーポレートサイトのPVを2.3倍に増加するポータル集客施策を実施
 
+## 略歴
+
+- 2024年：株式会社ザワッグル CDO就任（現職）
+- 2024年：株式会社DigiDockConsulting設立、CETO就任（現職）
+- 2021年：北九州高等専門学校 特任教授／コンピュータ研究部指導員就任（現職）
+- 2021年：北九州市立大学 国際環境工学部 非常勤講師（教授級）就任（現職）
+- 2021年：LiveView専門コミュニティ「LiveView JP」設立、代表就任（現職）
+- 2021年：カラビナテクノロジー株式会社 専門役員就任（現職）
+- 2021年：独立行政法人 中小企業基盤整備機構 コンサルタント就任
+- 2020年：株式会社DigiDockConsulting設立、CTO就任
+- 2020年：Elixir専門コミュニティ「ElixirImp」設立、代表就任（現職）
+- 2019年：FM KITAQ 先端テクノロジーラジオ番組「Technology Cruising Night」発足、パーソナリティ就任
+- 2019年：福岡Elixirコミュニティ「fukuoka.ex」代表退任
+- 2019年：九州国際Elixir連盟設立、理事就任（現職）
+- 2019年：ElixirConf JP設立、代表就任（現職）
+- 2019年：Elixir専門スクール「Elixir ｜> College」設立、代表就任（現職）
+- 2018年：福岡上級AI開発コミュニティ「IAIFukuoka」設立、代表就任（現職）
+- 2018年：人工知能技術専門プログラミングスクール「AIジョブカレ」講師（ディープラーニング講座／機械学習講座）就任（現職）
+- 2018年：カラビナテクノロジー株式会社 執行役員就任
+- 2018年：有限会社デライトシステムズ 技術顧問就任（現職）
+- 2017年：小倉Elixirコミュニティ「kokura.ex」共同設立
+- 2017年：カラビナテクノロジー株式会社 技術顧問就任
+- 2017年：福岡Elixirコミュニティ「fukuoka.ex」設立、代表就任
+- 2007年：個人事業主として独立
+- 2000年：株式会社タイムインターメディア 入社
+- 1997年：富士ソフト株式会社 入社
+- 1993年：帝京大学 理工学部 情報科学科 卒業
+- 1989年：静岡県立 伊東高等学校 卒業
+- 1974年：静岡県富士市に生まれる
+
 ## 保有資格
 
 - 2011年07月取得：情報処理技術者 プロジェクトマネージャ
@@ -290,28 +310,12 @@ fukuoka.ex／ElixirConf JP創設
 - 1996年10月取得（大学在学中）：情報処理技術者 第一種
 - 1995年10月取得（大学在学中）：情報処理技術者 第二種
 
-## 略歴
+## 趣味
 
-- 2021年：北九州高等専門学校 特任教授／コンピュータ研究部指導員就任（現職）
-- 2021年：北九州市立大学 国際環境工学部 非常勤講師（教授級）就任（現職）
-- 2021年：LiveView専門コミュニティ「LiveView JP」設立、代表就任（現職）
-- 2021年：独立行政法人 中小企業基盤整備機構 コンサルタント就任
-- 2020年：株式会社DigiDockConsulting設立、CTO就任（現職）
-- 2020年：Elixir専門コミュニティ「Elixir Digitalization Implementors（現ElixirImp）」設立、代表就任（現職）
-- 2017年：小倉Elixirコミュニティ「kokura.ex」設立、代表就任
-- 2019年：FM KITAQ 先端テクノロジーラジオ番組「Technology Cruising Night」発足、パーソナリティ就任（現職）
-- 2019年：九州国際Elixir連盟設立、理事就任（現職）
-- 2019年：ElixirConf JP設立、代表就任（現職）
-- 2019年：Elixir専門スクール「Elixir ｜> College」設立、代表就任（現職）
-- 2018年：福岡上級AI開発コミュニティ「IAIFukuoka」設立、代表就任（現職）
-- 2018年：人工知能技術専門プログラミングスクール「AIジョブカレ」講師（ディープラーニング講座／機械学習講座）就任（現職）
-- 2018年：カラビナテクノロジー株式会社入社、執行役員／専門役員就任（現職）
-- 2018年：有限会社デライトシステムズ 技術顧問就任（現職）
-- 2017年：カラビナテクノロジー株式会社 技術顧問就任
-- 2017年：福岡Elixirコミュニティ「fukuoka.ex」設立、代表就任
-- 2007年：masq investment Ltd.設立、CTO就任
-- 2000年：株式会社タイムインターメディア入社
-- 1997年：富士ソフト株式会社入社、技術部に配属
-- 1993年：帝京大学 理工学部 情報科学科 卒業
-- 1989年：静岡県立 伊東高等学校 卒業
-- 1974年：静岡県富士市に生まれる
+- 2023年以降、5ヶ月で体脂肪を9.2kg落とすスペ107のコスプレイヤーとして、イベント出演や技術登壇、取引先とのMTGをしている
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/71cae5b2-c47a-49a3-9d95-c24b46ac9d8f.png)
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/eec3b250-19f0-477c-a8bf-26a37cd50f58.png)
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/e48792e8-a0af-4cc2-97d7-019ac1194208.png)
