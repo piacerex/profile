@@ -1,127 +1,155 @@
 # 森 正和（もり まさかず） / piacere
 
-「40年前からプログラマ、書けるプログラミング言語は158言語」
+- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/1441f277-a31c-4b66-b3ec-a5db7f0ca5ee.png)](https://qiita.com/piacerex) & [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/d9ce7e80-2acb-4574-9d42-b60ec6da442d.png)](https://github.com/piacerex/) & [![image]()]() & [![image]()](https://discord.com/channels/1028556271881818113/1028562061304799252) … @piacerex
+- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/0831f39d-f55f-464f-be7d-eb6c6bf72e1d.png)](https://x.com/piacere_ex) & [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/9f51b5d8-b34c-48d7-a9ca-e092294a7841.png)](https://store.steampowered.com/app/2519830/Resonite) … @piacere_ex
+- [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/c2522322-d1ac-4150-a45d-10238bcdc22b.png)](https://www.facebook.com/masakazu.ex/) & [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/4cdfb9a0-a07b-489e-bf91-43698c6ce200.png)](https://www.facebook.com/masakazu.ex/) … @masakazu.ex
 
-小学4年生の頃からゲームプログラミングを始め、現在も、プロダクトとOSSを開発し続け、事業やコミュニティ運営の優位性とする
+## 目次
+
+- [プロフィール]([#プロフィール概略](/profile/#プロフィール))
+  - [職業エンジニアとしてのキャリア](/profile/#職業エンジニアとしてのキャリア)
+  - [専門領域・得意分野](/profile/#専門領域・得意分野)
+  - [趣味](/profile/#趣味)
+- [所属・肩書](/profile/#所属・肩書)
+- [教歴・インタビュー・講演実績（抜粋）](/profile/#教歴・インタビュー・講演実績（抜粋）)
+- [研究業績](/profile/#研究業績)
+- [マーケティング実績（抜粋）](/profile/#マーケティング実績（抜粋）)
+- [保有資格](/profile/#保有資格)
+- [略歴](/profile/#略歴)
+
+![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/c01740bd-8af3-4075-b988-b9dcd96f7a60.png)
+
+## プロフィール
+
+「40年以上前からプログラマ、書けるプログラミング言語は158言語」
+
+小学4年生（42年前）にゲームプログラミングを始め、現在も、プロダクトとOSSを開発し続け、事業やコミュニティ運営の優位性とする
 
 大手企業と自社を中心に、IT事業およびシステム開発／UX設計・UI制作／D2CマーケティングのコンサルティングやDX企画立案、メタバース／VR・AR／Web3／ブロックチェーン利用企画立案を手掛けつつ、現役・先端のプロダクト開発者およびアーキテクトである
 
 複数の技術コミュニティを設立・主催し、毎月のイベント開催やLT登壇、ライブコーディング／モブプログラミングを精力的にこなす
 
-大学時は独自分散OS／VM／コンパイラを研究・開発しており、2017年以降は分散・並行データサイエンス言語「Elixir」を「最後の言語で良い」と言うほどのレベルで心酔し、開発や事業構築の中核テクノロジーとして据えている
+大学時は、独自分散OS／VM／コンパイラを研究・開発しており、2017年以降は分散・並行データサイエンス言語「Elixir」を「最後の言語で良い」と言うほどのレベルで心酔し、開発や事業構築の中核テクノロジーとして据えている
 
-![image](https://user-images.githubusercontent.com/18749428/191774095-ad5239df-6bb6-4d60-a382-dd59d12efcd7.png)
+### 職業エンジニアとしてのキャリア
 
-- Twitter／NeosVR：@piacere_ex
-- Facebook／Instagram：masakazu.ex
-- Github／Qiita：@piacerex
+個人プログラマ歴14年の状態で東証一部 大手SIer企業に就職し、「新人だがリードプログラマ」と言うポジショニングでキャリアをスタートする
 
-## プロフィール概略
+2年目からは複数PJのプロジェクトマネージャ 兼 技術営業としての経験を積み、4年目にはITスタートアップに移籍し、事業部長と上場支援を担当した後、10年目に独立
 
-### キャリア
+独自マーケティングツールの開発・販売をしつつ、2011年から5年間、国内最大手IT企業の超大規模通信基盤開発でPdMおよび性能統括を担当
 
-個人プログラマ歴14年の状態で東証一部 大手SIer企業に就職し、「新人だがリードプログラマ」と言うスタートを切る
+2016~2018年には、200社以上の企業利用実績を持つマーケティングプロダクトの導入チーム統括と性能改善を担当
 
-以後、プロジェクトリーダー／プロジェクトマネージャの経験を積み、ITスタートアップで事業部長と上場支援の後、2007年に独立
+その後、複数IT企業の経営支援とコンサルティング、PMO、PMMを経験し、自らのIT事業経営の基盤を固める
 
-独自マーケティングツールの開発・販売をしつつ、2011年から5年間、国内最大手IT企業の超大規模通信基盤開発で性能統括を担当
+現在、IT企業3社のCETO・CTO・CDOとして経営と技術統括を担当しつつ、他3社の技術顧問にも就任し、現在に至る
 
-その後、複数IT企業の経営と技術責任者／技術顧問／コンサルタントを経験し、自らのIT事業経営の基盤を固め、今日に至る
-
-### 専門領域・得意分野
-
-システム立案／データ分析／性能確保が専門であり、先端技術の未来予測を背景とする事業戦略立案とシミュレーションを得意とする
-
-多数のコミュニティ運営実績に裏付けられた、事業の担い手とファンを繋ぐD2Cの構築やエンジニア／専門家の調達に定評がある
-
-Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコンピューティング、Web／モバイル開発と、技術はオールラウンド
-
-通信／金融・証券／小売／教育（e-learning）の業界知識も豊富に持ち、マーケティングやセールスも多くの実績を持つ
-
-年間の講演回数は毎年30本を越え、FM KITAQラジオ番組「Technology Cruising Night」のパーソナリティという顔も持っている
-
-近年、エンジニア育成（若手、他業種からの転向、大学生／高専生／スクール生）と、組織拡大による世界進出にチカラを入れている
+[略歴はコチラ](/profile/#略歴)
 
 ## 所属・肩書
 
-- 株式会社DigiDockConsulting CTO／ファウンダー／常務取締役
-- カラビナテクノロジー株式会社 執行役員／専門役員
+- 株式会社DigiDockConsulting CETO／ファウンダー
+- 株式会社ザワッグル CDO（Chief Digital Officer）
+- カラビナテクノロジー株式会社 専門役員
 - 北九州市立大学 国際環境工学部 非常勤講師（教授級）
 - 北九州高等専門学校 特任教授／コンピュータ研究部指導員
 - ElixirConf JP ファウンダー
 - 九州国際Elixir連盟 理事
 - 有限会社デライトシステムズ 技術顧問
-- masq investment Ltd. 技術顧問
-- Elixir専門スクール「Elixir ｜> College」代表
+- masq investment Ltd. ファウンダー
 - LiveView専門コミュニティ「LiveView JP」代表
 - Elixir専門コミュニティ「ElixirImp」代表
+- 福岡Elixirコミュニティ「fukuoka.ex」ファウンダー
+- Elixir専門スクール「Elixir ｜> College」代表
 - 福岡上級AI開発コミュニティ「IAIFukuoka」代表
 - 人工知能技術専門プログラミングスクール「AIジョブカレ」講師（ディープラーニング講座／機械学習講座）
-- FM KITAQ 先端テクノロジーラジオ番組「Technology Cruising Night」パーソナリティ
 
-## 略歴
+### 専門領域・得意分野
 
-- 2021年：北九州高等専門学校 特任教授／コンピュータ研究部指導員就任（現職）
-- 2021年：北九州市立大学 国際環境工学部 非常勤講師（教授級）就任（現職）
-- 2021年：LiveView専門コミュニティ「LiveView JP」設立、代表就任（現職）
-- 2021年：独立行政法人 中小企業基盤整備機構 コンサルタント就任
-- 2020年：株式会社DigiDockConsulting設立、CTO就任（現職）
-- 2020年：Elixir専門コミュニティ「Elixir Digitalization Implementors（現ElixirImp）」設立、代表就任（現職）
-- 2017年：小倉Elixirコミュニティ「kokura.ex」設立、代表就任
-- 2019年：FM KITAQ 先端テクノロジーラジオ番組「Technology Cruising Night」発足、パーソナリティ就任（現職）
-- 2019年：九州国際Elixir連盟設立、理事就任（現職）
-- 2019年：ElixirConf JP設立、代表就任（現職）
-- 2019年：Elixir専門スクール「Elixir ｜> College」設立、代表就任（現職）
-- 2018年：福岡上級AI開発コミュニティ「IAIFukuoka」設立、代表就任（現職）
-- 2018年：人工知能技術専門プログラミングスクール「AIジョブカレ」講師（ディープラーニング講座／機械学習講座）就任（現職）
-- 2018年：カラビナテクノロジー株式会社入社、執行役員／専門役員就任（現職）
-- 2018年：有限会社デライトシステムズ 技術顧問就任（現職）
-- 2017年：カラビナテクノロジー株式会社 技術顧問就任
-- 2017年：福岡Elixirコミュニティ「fukuoka.ex」設立、代表就任
-- 2007年：masq investment Ltd.設立、CTO就任
-- 2000年：株式会社タイムインターメディア入社
-- 1997年：富士ソフト株式会社入社、技術部に配属
-- 1993年：帝京大学 理工学部 情報科学科 卒業
-- 1989年：静岡県立 伊東高等学校 卒業
-- 1974年：静岡県富士市に生まれる
+システム立案／データ分析／性能確保が専門であり、先端技術の未来予測を背景とする事業戦略立案とシミュレーションを得意とする
+
+技術のオールラウンダーであり、中核たるElixir（分散・並列）を始め、AI・LLM、エッジコンピューティング、VR／AR、Web3／BC／DID、Web／モバイル開発を現役エンジニアとして最前線で実践する
+
+通信／金融・証券／小売／教育（e-learning）の業界知識も豊富に持ち、また開発だけに留まらず、マーケティングやセールスにおける実績も多く持つ
+
+多数のコミュニティ発足・主催実績に裏付けられた、ファンと事業の担い手とを繋ぐD2C構築と、市場平均よりも圧倒的に優秀なエンジニア／専門家の調達（コストも1%程度）に定評がある
+
+年間の講演回数は30本を越え、各地方自治体や世界的企業からの登壇依頼・登壇実績も多数こなす
+
+最近は、エンジニア育成（若手、他業種からの転向、大学生／高専生／スクール生）と、宇宙関連ないしはカーボンニュートラル関連の国PJ、プロプライエタリ・テクノロジーを背景とした世界進出にチカラを入れている
+
+### 趣味
+
+超高速／省電力 非ノイマン型CPU開発
+大学・高専・企業でプログラミング&AI講義
+fukuoka.ex／ElixirConf JP創設
+
+2023年スペ107コスプレ開始、体脂肪-9.2kg/5ヶ月
+2025年1月STEPN開始、3月STEPNGO開始⋯毎日プレイ
 
 ## 教歴・インタビュー・講演実績（抜粋）
 
-- ElixirConf US 2022　※海外英語講演
-  - 2021年10月14日：講演「Live coding in 20minites of a membership site by Phoenix & phx_gen_auth」【オンライン推定100名】
-- 最新バックエンド井戸端会議
-  - 2021年08月05日：パネルディスカッション「これからのRubyの話をしよう。そして、Elixirとの共存について」【284名】
+※【カッコ内は参加者数】
+
+- ElixirConf US 2021（海外英語講演）
+  - 2021年10月14日：講演[「Live coding in 20minites of a membership site by Phoenix & phx_gen_auth」YouTubeアーカイブ](https://www.youtube.com/watch?v=t5TT0-mI2O4)【500名】
+- Qiita関連講演
+  - 2023年1月20日：Advent Calendar 2022 Online Meetup講演[「凄まじい野望とプロダクトは、年末のコラム書きから始まる」YouTubeアーカイブ](https://www.youtube.com/watch?v=yGr3efYUz2s&t=862s)【1,241名】
+  - 2024年3月27日：Qiitaアドカレおつかれさま会 講演[「7年間アドカレ続け、トップランカー入りしたElixirにようこそ!!」](https://speakerdeck.com/piacerex/7nian-jian-sok-ke-totupurankaru-risitaelixirniyoukoso)【30名】
+- 総務省
+  - 2022年10月30日：講演[「本当のDXはSF的で未来志向、そしてサイバーパンク」](https://speakerdeck.com/piacerex/ben-dang-nodxhasfde-dewei-lai-zhi-xiang-sositesaibapanku-from-zong-wu-sheng-ictji-shu-semina-zi-fen-gotonisurudx-c3b4289a-acd5-41be-942a-4cdd73f5890d)【550名】
+- デブサミ（Developer Summit） 2018
+  - 2018年09月06日：講演[「Google Cloud AutoML最新AI技術『NAS(Neural Architecture Search)』を紐解く」](https://speakerdeck.com/piacerex/zui-xin-aiji-shu-nas-neural-architecture-search-woniu-jie-ku-google-cloud-automlfalseli-ce-wojian-teiku)【180名】
 - 関数型プログラミングカンファレンス2019 in Japan
-  - 2019年11月10日：講演「ElixirとHaskellの根底にある同じもの、そして、Elixirが辿った道」【106名】
+  - 2019年11月10日：講演[「ElixirとHaskellの根底にある同じもの、そして、Elixirが辿った道」](https://speakerdeck.com/piacerex/elixirtohaskellfalsegen-di-niarutong-zimofalse-sosite-elixirgachan-tutadao)【106名】
 - ElixirConf JP 2019
   - 2019年09月07日：講演「並列ライブラリ『Flow』の破壊的パラダイムシフトとデータ処理の未来」【109名】
   - 2019年09月07日：講演「Elixir、そしてあなたと共に歩む道 ～世界へ進出し、産業を変革する3年間～」【109名】
-- デブサミ（Developer Summit）
-  - 2018年09月06日：講演「Google Cloud AutoML最新AI技術『NAS(Neural Architecture Search)』を紐解く」【180名】
-- enPiT everi Future Session
-  - 2018年03月04日：講演「最先端のAI・IoT・ビックデータの活用方法」【200名】
-- Brooklyn Zelenka and The Exciting World of Edge Computing Podcast翻訳解説（YouTubeライブ配信）
-  - 2022年04月15日：パネルディスカッション「ElixirでWeb3／DID開発をしている人のお話」
-  - 2022年03月10日：パネルディスカッション「Elixirで分散データ開発をしている人のお話」
-  - 2022年03月06日：パネルディスカッション「パラダイムシフトはもう始まってる！半径0～5mのエッジコンピューティング」
-  - 2022年02月28日：パネルディスカッション「惑星間ファイルシステムをElixirで作っちゃった人のお話」
 - 北九州市立大学
-  - 2021年10月01日～2022年01月14日：選択講義「プログラミング論」【80名】
+  - 2021年10月01日～2024年01月14日：後期必修科目「プログラミング論」【例年約80名】
   - 2020年02月03日～2021年03月02日：特別講義「Elixir／PhoenixによるWeb開発演習、3D点群処理の高速化設計指南」【4名】
   - 2020年01月15日：特別講義「Elixir／PhoenixとVue.jsを用いたWeb開発演習」【10名】
   - 2018年10月31日：特別講義「おもてなしIoT」観光改善施策実習【3名】
   - 2018年10月22日：特別講義「Elixir／Phoenixによる関数型Web開発演習」【10名】
   - 2018年08月31日：enPiT everi「おもてなしIoT」教材制作
+- 高知県工業技術センター
+  - 2024年12月06日：[講演「技術者養成講座 ノーコードと生成AI 、IoTが繋がると何が出来るか？」](https://speakerdeck.com/piacerex/nokodotosheng-cheng-ai-iotgaxi-garutohe-gachu-lai-ruka)【40名】
+  - 2024年02月09日：講演[「技術者養成講座 デジタルツインと生成AIが繋がった世界を構築する」](https://speakerdeck.com/piacerex/dezitarutuintosheng-cheng-aigaxi-gatutashi-jie-wogou-zhu-suru)【40名】
+  - 2023年09月15日：講演[「技術者養成講座 最近トレンドの生成AIを使いこなす ～はじめての生成AIからビジネス活用、AIの未来を1.5時間で～」](https://speakerdeck.com/piacerex/zui-jin-torendonosheng-cheng-ainituite-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【15名】
+  - 2023年02月17日：講演[「技術者養成講座 最近トレンドのAI手法 ～AI・ディープラーニングの初歩から先端モデルまでを2時間で～」](https://speakerdeck.com/piacerex/ainoji-ben-karazui-jin-torendoaishou-fa-made-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【30名】
+  - 2021年12月08日：講演[「技術者養成講座 意思決定のためのAI・ML ～現実とメタバースが同居する時代のAI・ML～」](https://speakerdeck.com/piacerex/yi-si-jue-ding-notamenoaiml-from-gao-zhi-aisemina-ji-shu-zhe-yang-cheng-jiang-zuo)【30名】
+  - 2020年10月30日：講演「技術者養成講座 AI・ML基礎と最新技術YOLO、BERT／ViT、AutoML Zero」【30名】
+  - 2019年10月11日：講演「技術者養成講座 AI活用事例セミナー」【30名】
+- オープンセミナー広島
+  - 2019年02月23日：講演[「『歴史に学ぶ』『未来を予測』そして『今日どう生きるか』」](https://speakerdeck.com/piacerex/li-shi-nixue-bu-wei-lai-woyu-ce-suru-sosite-jin-ri-dousheng-kirukakao-eru)【101名】
+- Brooklyn Zelenka and The Exciting World of Edge Computing Podcast翻訳解説（YouTubeライブ配信）
+  - 2022年04月15日：パネルディスカッション「ElixirでWeb3／DID開発をしている人のお話」
+  - 2022年03月10日：パネルディスカッション「Elixirで分散データ開発をしている人のお話」
+  - 2022年03月06日：パネルディスカッション「パラダイムシフトはもう始まってる！半径0～5mのエッジコンピューティング」
+  - 2022年02月28日：パネルディスカッション「惑星間ファイルシステムをElixirで作っちゃった人のお話」
 - 北九州高等専門学校
   - 2022年01月28日：プログラミングハンズオン【15名】
   - 2021年07月16日：特別講義「エンジニアは花形…ただし『競争領域』に限る」【30名】
   - 2021年06月15日：特別講義「日本のITの『これまで』と『これから』 ～IT企業に行く皆さまへ、現役ITの現場から～」【30名】
+- 福岡市関連
+  - 2019年09月11日：講演「Fukuoka.dev：昨年12月から、AWSとLambdaでElixirが使えてたってご存知ですか？」【19名】
+  - 2019年07月20日：講演「FUKUOKA Engineers Day 2019：Why Elixir?＋ElixirConf JP 2019ご紹介」【156名】
+  - 2018年10月27日：講演「Agile Japan 2018：2002年から18年間、XPerとして見てきたアジャイルの変遷、そして未来」【18名】
+  - 2017年07月28日：パネルディスカッション「Fukuoka CTO meetup」【98名】
+- 北九州市関連
+  - 2021年09月15日：オンラインセミナー「北九州マーケティングDX道場：イチから学ぶ『DX概論』」
+  - 2021年01月22日～2021年03月26日：株式会社HOA様 企業研修「AI・MLを用いたビジネス利用リテラシー向上コース」【5名】
+  - 2021年01月20日：特別講演「福岡Elixirコミュニティのご紹介＋今後のElixirが迎える展開」【30名】
+  - 2020年01月24日：パネルディスカッション「5G × 北九州＠小倉城天守閣『近未来の最前線』ミートアップ」【45名】
+  - 2019年10月07日：特別講演「北九州とアジア、そして世界のITを変革するIoT／AI／Web技術を小倉城で発表」【44名】
+  - 2019年08月22日：講演「Code for KitaQ：福岡でElixirを展開した3年間＋ElixirConf JP 2019ご紹介」【16名】
+- 最新バックエンド会議
+  - 2021年08月05日：パネルディスカッション「これからのRubyの話をしよう。そして、Elixirとの共存について」【284名】
+- enPiT everi Future Session
+  - 2018年03月04日：講演「最先端のAI・IoT・ビックデータの活用方法」【200名】
 - 西日本工業大学
   - 2018年12月11日：特別講義「宇宙の開発してみませんか？ ～北九州から世界を超えて～」【20名】
-- 高知県工業技術センター
-  - 2021年11月30日：講演「技術者養成講座 意思決定のためのAI・ML ～現実とメタバースが同居する時代のAI・ML～」【30名】
-  - 2020年10月30日：講演「技術者養成講座 AIセミナー ～AI・ML基礎と最新技術YOLO、BERT／ViT、AutoML Zero～」【30名】
-  - 2019年10月11日：講演「技術者養成講座 AI活用事例セミナー」【30名】
 - WEB+DB PRESS vol.127 Phoenix特集出版記念講演（YouTubeライブ配信）
   - 2022年03月08日：パネルディスカッション「WEB+DB PRESS vol.127 Phoenix特集こたつで座談会」
   - 2022年03月05日：パネルディスカッション「WEB+DB PRESS Phoenix特集」トークイベント前夜祭配信
@@ -213,18 +241,6 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
   - 2017年06月08日：講演「Elixir＋Elm～全てが関数型の分散シングルページアプリケーション開発」【27名】
 - Forkwell Press
   - 2018年08月24日：インタビューコラム「福岡を、エンジニアの楽園にしたい」
-- 福岡市関連
-  - 2019年09月11日：講演「Fukuoka.dev：昨年12月から、AWSとLambdaでElixirが使えてたってご存知ですか？」【19名】
-  - 2019年07月20日：講演「FUKUOKA Engineers Day 2019：Why Elixir?＋ElixirConf JP 2019ご紹介」【156名】
-  - 2018年10月27日：講演「Agile Japan 2018：2002年から18年間、XPerとして見てきたアジャイルの変遷、そして未来」【18名】
-  - 2017年07月28日：パネルディスカッション「Fukuoka CTO meetup」【98名】
-- 北九州市関連
-  - 2021年09月15日：オンラインセミナー「北九州マーケティングDX道場：イチから学ぶ『DX概論』」
-  - 2021年01月22日～2021年03月26日：株式会社HOA様 企業研修「AI・MLを用いたビジネス利用リテラシー向上コース」【5名】
-  - 2021年01月20日：特別講演「福岡Elixirコミュニティのご紹介＋今後のElixirが迎える展開」【30名】
-  - 2020年01月24日：パネルディスカッション「5G × 北九州＠小倉城天守閣『近未来の最前線』ミートアップ」【45名】
-  - 2019年10月07日：特別講演「北九州とアジア、そして世界のITを変革するIoT／AI／Web技術を小倉城で発表」【44名】
-  - 2019年08月22日：講演「Code for KitaQ：福岡でElixirを展開した3年間＋ElixirConf JP 2019ご紹介」【16名】
 - 宇宙データ・相対性理論・量子力学関連
   - 2020年07月10日：講演「重力プログラミング入門 第3回：太陽フレアをディープラーニングで予測する」【7名】
   - 2019年05月24日：講演「数字や機械学習が苦手でもブラックホールが理解できる相対性理論のススメ」【12名】
@@ -241,8 +257,6 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
   - 2020年4月24日～現在：「Technology Cruising Night」番組構成 兼 パーソナリティ
 - COMI×TEN（ラジオ）
   - 2020年12月21日：ゲスト講演「村山由香里のcrosswalk『経済危機を乗り越えるIT』」
-- その他
-  - 2019年02月23日：講演「オープンセミナー広島：『歴史に学ぶ』『未来を予測』そして『今日どう生きるか』」【101名】
 
 ## 研究業績
 
@@ -261,7 +275,7 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
 - 2006年～2009年：独自マーケティングツール開発・販売、クリックストリームやヒートマップの分析、スクロール離脱検出を搭載
 - 2003年～2007年：コーポレートサイトのPVを2.3倍に増加するポータル集客施策を実施
 
-## 資格
+## 保有資格
 
 - 2011年07月取得：情報処理技術者 プロジェクトマネージャ
 - 2005年10月取得：Certified MySQL 4.0 DBA　※英語試験
@@ -275,3 +289,29 @@ Elixir（分散・並列）とAI・ML、VR／AR、Web3／DID、エッジコン�
 - 1997年07月取得：MCP（Microsoft Certified Professional）
 - 1996年10月取得（大学在学中）：情報処理技術者 第一種
 - 1995年10月取得（大学在学中）：情報処理技術者 第二種
+
+## 略歴
+
+- 2021年：北九州高等専門学校 特任教授／コンピュータ研究部指導員就任（現職）
+- 2021年：北九州市立大学 国際環境工学部 非常勤講師（教授級）就任（現職）
+- 2021年：LiveView専門コミュニティ「LiveView JP」設立、代表就任（現職）
+- 2021年：独立行政法人 中小企業基盤整備機構 コンサルタント就任
+- 2020年：株式会社DigiDockConsulting設立、CTO就任（現職）
+- 2020年：Elixir専門コミュニティ「Elixir Digitalization Implementors（現ElixirImp）」設立、代表就任（現職）
+- 2017年：小倉Elixirコミュニティ「kokura.ex」設立、代表就任
+- 2019年：FM KITAQ 先端テクノロジーラジオ番組「Technology Cruising Night」発足、パーソナリティ就任（現職）
+- 2019年：九州国際Elixir連盟設立、理事就任（現職）
+- 2019年：ElixirConf JP設立、代表就任（現職）
+- 2019年：Elixir専門スクール「Elixir ｜> College」設立、代表就任（現職）
+- 2018年：福岡上級AI開発コミュニティ「IAIFukuoka」設立、代表就任（現職）
+- 2018年：人工知能技術専門プログラミングスクール「AIジョブカレ」講師（ディープラーニング講座／機械学習講座）就任（現職）
+- 2018年：カラビナテクノロジー株式会社入社、執行役員／専門役員就任（現職）
+- 2018年：有限会社デライトシステムズ 技術顧問就任（現職）
+- 2017年：カラビナテクノロジー株式会社 技術顧問就任
+- 2017年：福岡Elixirコミュニティ「fukuoka.ex」設立、代表就任
+- 2007年：masq investment Ltd.設立、CTO就任
+- 2000年：株式会社タイムインターメディア入社
+- 1997年：富士ソフト株式会社入社、技術部に配属
+- 1993年：帝京大学 理工学部 情報科学科 卒業
+- 1989年：静岡県立 伊東高等学校 卒業
+- 1974年：静岡県富士市に生まれる
