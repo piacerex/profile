@@ -91,14 +91,14 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
 
 ※【カッコ内は参加者数】
 
+- ElixirChip関連講演
+  - 2023年01月20日：fukuoka.ex#54 宇宙衛星／エッジコンピューティング@マネーフォワード「ElixirChip、次世代と宇宙にブッ飛ぶ」【81名】 [YouTube](https://www.youtube.com/watch?v=_8v65P4OUyw) / [スライド](https://speakerdeck.com/piacerex/elixir-chip-ci-shi-dai-toyu-zhou-nibutufei-bu)
+  - 2025年04月16日：「ElixirがHW化され、最新CPU／GPU／NWを過去のものとする数万倍、高速＋超省電力化されたWeb／動画配信／AIが動く日」【17名】 YouTube（後ほど公開） / [スライド](https://speakerdeck.com/piacerex/elixirgahwhua-sare-zui-xin-cpu-slash-gpu-slash-nwwoguo-qu-nomonotosurushu-mo-bei-gao-su-plus-chao-sheng-dian-li-hua-saretaweb-slash-dong-hua-pei-xin-slash-aigadong-kuri-ce6de831-2de7-45f1-a28b-85e56bcfb436)
 - ElixirConf US 2021（海外英語講演）
   - 2021年10月14日：講演[「Live coding in 20minites of a membership site by Phoenix & phx_gen_auth」](https://www.youtube.com/watch?v=t5TT0-mI2O4)【500名】
 - Qiita関連講演
   - 2023年1月20日：Advent Calendar 2022 Meetup[「凄まじい野望とプロダクトは、年末のコラム書きから始まる」](https://www.youtube.com/watch?v=yGr3efYUz2s&t=862s)【1,241名】
   - 2024年3月27日：Qiitaアドカレおつかれさま会[「7年間アドカレ続け、トップランカー入りしたElixirにようこそ!!」](https://speakerdeck.com/piacerex/7nian-jian-sok-ke-totupurankaru-risitaelixirniyoukoso)【30名】
-- ElixirChip関連講演
-  - 2023年01月20日：fukuoka.ex#54 宇宙衛星ほか@マネーフォワード[ElixirChip、次世代と宇宙にブッ飛ぶ](https://speakerdeck.com/piacerex/elixir-chip-ci-shi-dai-toyu-zhou-nibutufei-bu)【81名】
-  - 2025年04月16日：[ElixirがHW化され、最新CPU／GPU／NWを過去のものとする数万倍、高速＋超省電力化されたWeb／動画配信／AIが動く日](https://speakerdeck.com/piacerex/elixirgahwhua-sare-zui-xin-cpu-slash-gpu-slash-nwwoguo-qu-nomonotosurushu-mo-bei-gao-su-plus-chao-sheng-dian-li-hua-saretaweb-slash-dong-hua-pei-xin-slash-aigadong-kuri-ce6de831-2de7-45f1-a28b-85e56bcfb436)【17名】
 - 総務省
   - 2022年10月30日：[「本当のDXはSF的で未来志向、そしてサイバーパンク」](https://speakerdeck.com/piacerex/ben-dang-nodxhasfde-dewei-lai-zhi-xiang-sositesaibapanku-from-zong-wu-sheng-ictji-shu-semina-zi-fen-gotonisurudx-c3b4289a-acd5-41be-942a-4cdd73f5890d)【550名】
 - デブサミ（Developer Summit） 2018
@@ -158,6 +158,7 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
 - 最新バックエンド会議
   - 2021年08月05日：パネルディスカッション「これからのRubyの話をしよう。そして、Elixirとの共存について」【284名】
 - AI・ML・データサイエンス関連
+  - 2021年11月22日：[「Livebook＋Nx＋AxonではじめるElixir AI・ML入門」](https://speakerdeck.com/piacerex/livebook-plus-nx-plus-axondehazimeruelixir-aimlru-men)【22名】
   - 2020年12月14日：「自然言語解析モデルBERTとその後継の先端モデル」【10名】
   - 2020年09月17日：「JDLA E資格 2020年度追加シラバスの攻略」【6名】
   - 2020年06月20日：「意思決定のためのデータ分析勉強会：D2C時代に突入して変革したデータ分析」【132名】
@@ -168,7 +169,7 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2019年03月16日：[「GCPUG Kumamoto：BigQuery＋BigQueryMLでKaggle機械学習を攻略してみた」](https://speakerdeck.com/piacerex/gcpug-kitakyu-number-1-xiong-ben-number-1-bigquery-bigquerymldekaggleji-jie-xue-xi-wogong-lue-sitemita)【20名】
   - 2019年02月14日：「GCPUG kitakyu：BigQuery MLでKaggle機械学習を攻略する」【13名】
   - 2019年01月17日：「DATA SCIENCE WAY：AI・ML案件をコケさせない3つのティッピングポイント」【13名】
-  - 2018年10月20日：「ML/DL Meetup：ベテランエンジニアほど罠にハマる、通常SIと、AI・ML開発の相違点」【73名】
+  - 2018年10月20日：[「ML/DL Meetup：ベテランエンジニアほど罠にハマる、通常SIと、AI・ML開発の相違点」](https://speakerdeck.com/piacerex/beteranenziniahodomin-nihamaru-tong-chang-sito-aimlkai-fa-falsexiang-wei-dian-gong-tong-dian)【73名】
   - 2018年06月30日：「PyCon Kyushu：最新AI技術『カプセルネットワーク』『転移学習』『QRNN』を実装」【155名】
   - 2018年01月26日：「AI入門 第4回：TensorBoardでディープラーニングの中身を覗いて、育ちを観察する」【24名】
   - 2017年12月01日：ハンズオン「ディープラーニングプログラミング入門」【22名】
@@ -201,7 +202,8 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2020年10月01日～2021年01月22日：原作／監修 「Elixir」開発者育成シリーズ「B03：Elixir本番環境構築＆リリース講座」
 - Elixir関連
   - 2024年05月08日：[「とうとう実践配備された ElixirDesktopにようこそ!!」](https://speakerdeck.com/piacerex/toutoushi-jian-pei-bei-sareta-elixirdesktopniyoukoso)【12名】
-  - 2023年08月16日：[「Elixirでマイクロサービスパターン【前編】 ～AI・MLとエッジコンピューティングも～」](https://speakerdeck.com/piacerex/elixirdemaikurosabisupatan-qian-bian-aimltoetuzikonpiyuteingumo)【23名】
+  - 2023年08月16日：「Elixirでマイクロサービスパターン【前編】 ～AI・MLとエッジコンピューティングも～」【23名】 [YouTube](https://www.youtube.com/watch?v=Olr9Kzpqacc) / [スライド](https://speakerdeck.com/piacerex/elixirdemaikurosabisupatan-qian-bian-aimltoetuzikonpiyuteingumo)
+  - 2023年03月11日：[「全ての準備が揃ったElixirへの入門7選」](https://speakerdeck.com/piacerex/quan-tenozhun-bei-gajian-tutaelixirhenoru-men-7xuan-at-fukuoka-dot-ex-number-53)【42名】
   - 2022年09月17日：「Livebook新フィーチャーライブデモ from ElixirConf 2022 US」【29名】
   - 2022年08月17日：パネルディスカッション「実際にPJで『Elixirスキルシート』を使っている方々で座談会」【24名】
   - 2022年08月17日：「『Elixirスキルシート』を運用始めて1年半後、スキルDB配信することになった」【24名】
@@ -209,11 +211,11 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2022年07月20日：「ElixirDesktop入門：Web＋スマホを1つのソースで ＆ API Hellに陥らない開発体験」【29名】
   - 2022年06月28日：「『Elixir生誕10周年』から10年後の未来～WebからLiveView、Web3、メタバース、その先」【44名】
   - 2022年06月15日：[「fukuoka.ex全史：『7年前から振り返るElixirテクノロジーの変遷』」](https://speakerdeck.com/piacerex/elixirimp-number-21-fukuoka-dot-exquan-shi-7nian-qian-karazhen-rifan-ruelixirtekufalserozifalsebian-qian)【25名】
-  - 2022年05月18日：「『Elixirお仕事』を5年前に作り始め、今どこまで来ているのか？」【38名】
+  - 2022年05月18日：[「『Elixirお仕事』を5年前に作り始め、今どこまで来ているのか？」](https://speakerdeck.com/piacerex/elixiroshi-shi-wo5nian-qian-nizuo-rishi-me-jin-dokomadelai-teirufalseka-in-elixirimp-number-20)【38名】
   - 2022年04月26日：「Livebook入門ライブコーディング＋Nxの関数を幾つか叩いてみる」【19名】
   - 2022年03月22日：「LiveView入門ライブコーディング」【31名】
   - 2022年02月22日：「Livebook＋Nxで行列操作による画像加工で遊ぶ」【26名】
-  - 2022年02月16日：「Elixirで起業し、案件を作り、『本業』と『副業』、そして『見習い』の雇用を創る」【52名】
+  - 2022年02月16日：[「Elixirで起業し、案件を作り、『本業』と『副業』、そして『見習い』の雇用を創る」](https://speakerdeck.com/piacerex/elixirdeqi-ye-si-an-jian-wozuo-ri-ben-ye-to-fu-ye-sosite-jian-xi-i-falsegu-yong-wochuang-ru)【52名】
   - 2022年01月25日：「Communitexのユーザと商品で使われるLiveView Upload」【21名】
   - 2022年01月19日：「"Elixirの現在" を学べて『Elixir生誕10周年』の今年を一緒に盛り上がれるブリーフィング」【25名】
   - 2021年12月26日：「メタバースとAI・ML、エッジコンピューティング、スマホ…これらをElixirだけで済ませる」【19名】
@@ -240,7 +242,7 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2018年06月22日：「1家に1台、パーソナルなデータ分析AIを全員が持つ2020年を作る」【50名】
   - 2018年04月20日：「プログラミング未経験でもExcelできればElixirマスターできる」【28名】
   - 2018年03月29日：ハンズオン「Elixir Webフレームワーク『Phoenix』プログラミング入門」【15名】
-  - 2018年02月23日：「2020年の後、訪れるIT投資激減とシステム崩壊、そして救世主Elixir」【21名】
+  - 2018年02月23日：[「2020年の後、訪れるIT投資激減とシステム崩壊、そして救世主Elixir」](https://speakerdeck.com/piacerex/ji-shu-wei-lai-toelixir-di-1hui-2020nian-falsehou-fang-reruittou-zi-ji-jian-tosisutemubeng-huai-sositejiu-shi-zhu-elixir-1)【21名】
   - 2017年12月22日：「データサイエンスプラットフォーム構築 ～Elixir高速データクレンジング／集計／ML連携」【23名】
   - 2017年10月27日：ハンズオン「Elixir／Phoenixプログラミング入門」【19名】
   - 2017年08月24日：[「Elixirはtry…catchを書かない ～例外処理から耐障害性へのパラダイムシフト～」](https://www.slideshare.net/slideshow/elixir6elixirtrycatch/80480071)【13名】
@@ -252,7 +254,7 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
   - 2019年05月24日：「数字や機械学習が苦手でもブラックホールが理解できる相対性理論のススメ」【12名】
   - 2018年07月20日：「重力プログラミング入門 第6回：惑星の位置を計算する」【23名】
   - 2018年05月31日：「重力プログラミング入門 第5回：ブラックホールを流体力学でシミュレーションする」【19名】
-  - 2018年03月16日：「重力プログラミング入門 第4回：スペースコロニー建造 ～宇宙空間での物体配置～」【37名】
+  - 2018年03月16日：[「重力プログラミング入門 第4回：スペースコロニー建造 ～宇宙空間での物体配置～」](https://speakerdeck.com/piacerex/zhong-li-puroguraminguru-men-di-4hui-supesukoroniwojian-zao-suru)【37名】
   - 2018年03月02日：「Elixir量子コンピュータシミュレータ『Quantex』」【31名】
   - 2018年01月19日：「重力プログラミング入門 第2回：Python＋Jupyterで重力波を解析する」【20名】
   - 2017年09月20日：[「重力プログラミング入門 第1回：地球の重力下で人工衛星を公転軌道に乗せる」](https://www.slideshare.net/slideshow/fukuoka1/80022147)【32名】
@@ -273,7 +275,7 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
 
 ## マーケティング実績（抜粋）
 
-- 2021年～現在：大手企業4社に向け、D2Cおよびアフターデジタルを含むマーケティングコンサルティングを実施
+- 2021年～現在：大手企業4社に向け、D2Cおよびアフターデジタルを含む先端デジタルマーケティングを指南
 - 2019年：ElixirConf JP 2019にて、募集期間1.7ヶ月で109名の講演参加（単価11,000円）を成約【YouTube動画、Facebook広告】
 - 2018年～現在：技術コラムポータル「Qiita」の複数カテゴリで主催Advent Calendarを3年連続10位以内入賞【広告利用無】
 - 2017年～現在：Twitterにて、8ヶ月で1,000フォロワー、1.3年2,000フォロワー獲得、3.3年4,000フォロワーを獲得【広告利用無】
@@ -300,7 +302,7 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
 - 2018年：福岡上級AI開発コミュニティ「IAIFukuoka」設立、代表就任（現職）
 - 2018年：人工知能技術専門プログラミングスクール「AIジョブカレ」講師（ディープラーニング講座／機械学習講座）就任（現職）
 - 2018年：カラビナテクノロジー株式会社 執行役員就任
-- 2018年：有限会社デライトシステムズ 技術顧問就任（現職）
+- 2018年：有限会社デライトシステムズ 技術顧問就任
 - 2017年：小倉Elixirコミュニティ「kokura.ex」共同設立
 - 2017年：カラビナテクノロジー株式会社 技術顧問就任
 - 2017年：福岡Elixirコミュニティ「fukuoka.ex」設立、代表就任
