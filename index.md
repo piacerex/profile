@@ -1,3 +1,10 @@
+**[Elixirをハードウェア結線できる、非ノイマン型アーキテクチャ超高速／超省電力チップ「ElixirChip」を絶賛開発中！](https://digi-dock.com/)**
+- 70年のコンピュータ史を書き換えるレベル：ノイマン型CPU（Xeonなど）と比べ、スループットは26倍（理論上700倍まで引き上げ可能）、電力消費は0.04%
+- 2050年までに必要な技術革新を2025年段階で叶える：2050年時予測の世界総ネットワーク消費電量384,000TWh※（現在消費電量108TWhの約3,400倍）を現時点で達成可能
+- 800メガトンものCo2排出削減が可能なインパクト：全世界に導入すれば、発電所350基の撤廃、ないしはガソリン車2億台をEVに変えるのと同等の効果
+&
+**[2025年9月、ElixirChipの初お目見え会やります！](https://fukuokaex.connpass.com/event/358379/)**
+
 # 森 正和（もり まさかず） / piacere
 
 - [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/1441f277-a31c-4b66-b3ec-a5db7f0ca5ee.png)](https://qiita.com/piacerex) /  [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/d9ce7e80-2acb-4574-9d42-b60ec6da442d.png)](https://github.com/piacerex/) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/014f8e41-21c1-4f44-b474-9ad3f5f10b87.png)](https://www.youtube.com/@piacerex/videos) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/f9089cdf-96ec-4b87-8e01-a6c97750fa40.png)](https://discord.com/channels/1028556271881818113/1028562061304799252) … @piacerex
