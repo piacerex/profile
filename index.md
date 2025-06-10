@@ -8,7 +8,7 @@
   - ※1：ローエンドFPGAボード（8万円相当）適用時は26倍、ハイエンドFPGAボード（250万円相当）適用時は700倍以上となる
   - ※2：国立研究開発法人科学技術振興機構低炭素社会戦略センター[「情報化社会の進展がエネルギー消費に与える影響Vol.1」](https://dl.ndl.go.jp/view/prepareDownload?itemId=info%3Andljp%2Fpid%2F11546567)
 
-**[2025年9月17日、この凄まじいElixirハードウェア化独自チップ「ElixirChip」の ”初お目見え会” をやります！](https://fukuokaex.connpass.com/event/358379/)**
+**[2025年9月17日、この凄まじいElixirハードウェア化独自チップ「ElixirChip」を実際に動かす ”初お目見え会” をやります！](https://fukuokaex.connpass.com/event/358379/)**
 
 - [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/1441f277-a31c-4b66-b3ec-a5db7f0ca5ee.png)](https://qiita.com/piacerex) /  [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/d9ce7e80-2acb-4574-9d42-b60ec6da442d.png)](https://github.com/piacerex/) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/014f8e41-21c1-4f44-b474-9ad3f5f10b87.png)](https://www.youtube.com/@piacerex/videos) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/f9089cdf-96ec-4b87-8e01-a6c97750fa40.png)](https://discord.com/channels/1028556271881818113/1028562061304799252) … @piacerex
 - [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/0831f39d-f55f-464f-be7d-eb6c6bf72e1d.png)](https://x.com/piacere_ex) / [![image](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/9f51b5d8-b34c-48d7-a9ca-e092294a7841.png)](https://store.steampowered.com/app/2519830/Resonite) … @piacere_ex
