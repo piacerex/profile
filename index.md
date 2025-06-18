@@ -335,7 +335,7 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
 - 2023年以降、5ヶ月で体脂肪を9.2kg落とすスペ107のコスプレイヤーとして、イベント出演や技術登壇、取引先とのMTGをしている
   - 開始時は48歳、現在50歳ですが、下記のような姿で、元気にコスプレしています(｀･ω･´)ゞ
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/71cae5b2-c47a-49a3-9d95-c24b46ac9d8f.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/d4a25353-177b-4c3f-9673-dcfaef34e2b6.png)
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/eec3b250-19f0-477c-a8bf-26a37cd50f58.png)
 
