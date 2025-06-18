@@ -337,6 +337,6 @@ Elixir（分散・並列）を始め、AI・LLM、エッジコンピューティ
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/d4a25353-177b-4c3f-9673-dcfaef34e2b6.png)
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/eec3b250-19f0-477c-a8bf-26a37cd50f58.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/781d599a-eef0-41d8-890b-6916714c5adb.png)
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/e48792e8-a0af-4cc2-97d7-019ac1194208.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/155423/f2795f44-8bd5-40a9-bb5a-5fdfcb6c6ade.png)
